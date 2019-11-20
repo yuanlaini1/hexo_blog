@@ -14,19 +14,20 @@ menu:
   archives:
     url: /archives
   tags:
+    text: 标签
     url: /tags
   th-list:
     text: Categories
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/yuanlaini1
     target: _blank
-  weibo:
-    url: http://www.weibo.com/ysweb
-    target: _blank
-  link:
-    text: 测试
-    url: /custom
+  #weibo:
+  #  url: http://www.weibo.com/ysweb
+  #  target: _blank
+  #link:
+  #  text: 测试
+  #  url: /custom
 
 # 你的头像url
 avatar: /img/avatar.jpg
@@ -38,7 +39,7 @@ brand: /img/brand.jpg
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: 302504782@qq.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -62,10 +63,10 @@ show_last_updated: true
 share: true
 
 # 是否开启打赏，关闭 reward: false
-reward:
-  title: 谢谢大爷~
-  wechat: /img/wechat.jpg     #微信，关闭设为 false
-  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
+  reward: false
+  #title: 谢谢大爷~
+  #wechat: /img/wechat.jpg     #微信，关闭设为 false
+  #alipay: /img/alipay.jpg     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
@@ -159,8 +160,8 @@ visit_counter:
 
 # 动态定义title
 title_change:
-  normal: (つェ⊂)咦!又好了!
-  leave: 死鬼去哪里了！
+  #normal: (つェ⊂)咦!又好了!
+  #leave: 死鬼去哪里了！
 
 # 设置为 true 发布后将使用 unpkg cdn 最新的主题样式
 # 如果想让你的自定义样式生效，把此项设为 false
